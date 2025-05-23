@@ -1,3 +1,6 @@
+# update
+新建apk-pkg分支，用于支持apk包
+
 # 改名公告
 #### 2021年04月25日 起luci-app-serverchand 改名为 luci-app-pushbot
 
